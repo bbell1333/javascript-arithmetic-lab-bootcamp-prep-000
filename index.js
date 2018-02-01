@@ -19,5 +19,5 @@ function inc(n){
 }
 
 function dec(n){
-  reutrn a-=n
+  return a-=n
 }
