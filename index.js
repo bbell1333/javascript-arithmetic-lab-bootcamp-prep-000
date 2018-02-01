@@ -13,3 +13,11 @@ function multiply(a,b){
 function divide(a,b){
   return a/b
 }
+
+function inc(n){
+  return a+=n
+}
+
+function dec(n){
+  reutrn a-=n
+}
