@@ -19,5 +19,6 @@ function inc(n){
 }
 
 function dec(n){
+  var a = a
   return a-=n
 }
